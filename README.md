@@ -2,15 +2,15 @@
 
 1 create database guvi;
 2 use guvi;
-```
+`````
 create table user(
 userid int primary key auto_increment,
 username varchar(25) unique,
 useremail varchar(255) unique,
 usermobile varchar(10) not null
 );user table created (studentsdata) .here insertion of students data's in user table 
-```
-
+`````
+````
 create table course(
 course_id int auto_increment primary key,
 userid int,
