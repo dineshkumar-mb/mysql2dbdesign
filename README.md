@@ -1,3 +1,7 @@
+
+Refernce from
+https://data-flair.training/blogs/primary-and-foreign-key-in-sql/
+
 #guvi db design 
 
 1 create database guvi;
